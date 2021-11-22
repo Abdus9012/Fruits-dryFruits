@@ -1,0 +1,36 @@
+.margin{
+    padding: 55px;
+    margin: 1px 10px;
+    border: rgb(146, 140, 140) solid 1px;
+    border-radius: 10px;
+}
+
+.img{
+    float: centre;
+    margin: 10px;
+    width: 400px;
+}
+
+.almonds{
+    float: centre;
+    margin: 10px;
+    width: 400px; 
+}
+
+.dates{
+    float: centre;
+    margin: 10px;
+    width: 400px; 
+}
+
+.dates{
+    float: centre;
+    margin: 10px;
+    width: 400px; 
+}
+
+.cashew{
+    float: centre;
+    margin: 10px;
+    width: 400px
+}
